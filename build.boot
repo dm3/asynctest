@@ -1,5 +1,5 @@
 (def project 'dm3/asynctest)
-(def version "0.1.0-SNAPSHOT")
+(def version "0.1.0")
 
 (set-env! :resource-paths #{"src"}
           :source-paths   #{"test"}
